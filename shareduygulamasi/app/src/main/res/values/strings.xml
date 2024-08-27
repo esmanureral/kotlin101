@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shareduygulamasi</string>
+    <string name="adSoyad">Adınızı Ve Soyadınızı Giriniz.</string>
+    <string name="yas">Yaşınızı Giriniz.</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="goster">Göster</string>
+    <string name="sil">Sil</string>
+</resources>
