@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Happy Birthday</string>
+=======
+    <string name="app_name">deneme1</string>
+>>>>>>> c6ae4e795c8fcd9384d509a571da2eb34c61d082
 </resources>

@@ -19,5 +19,11 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "Happy Birthday"
 include(":app")
+=======
+rootProject.name = "deneme1"
+include(":app")
+ 
+>>>>>>> c6ae4e795c8fcd9384d509a571da2eb34c61d082
